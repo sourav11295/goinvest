@@ -1,0 +1,16 @@
+feedparser
+hydralit_components
+matplotlib
+nltk
+numpy
+pandas
+Pillow
+plotly
+scikit_learn
+streamlit
+streamlit_option_menu
+tensorflow
+textblob
+tweepy
+vaderSentiment
+yfinance
